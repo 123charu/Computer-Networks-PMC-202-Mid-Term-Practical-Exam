@@ -1,4 +1,4 @@
-# MId-Term-Practical-Exam-Computer-Networks-PMC-202
+# Mid-Term-Practical-Exam-Computer-Networks-PMC-202
 
 In relation to ONLINE Computer Networks Mid-Semester Practical Examination of JUNE 2021 the following is to be noted:
 
