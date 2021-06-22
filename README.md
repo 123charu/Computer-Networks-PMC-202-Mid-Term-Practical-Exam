@@ -15,9 +15,9 @@ You have to upload the folder in the given time (i.e. within 1 hour) only. if so
 Your directory should have following format - ClassRollNo_UniversityRoll_No_FirstName_Last_Name.
 
 Questions:
-1. There is an organization A with multiple departments. Design a network for the HR department and the size of the department is 10 users. Also, show the communication between user number 1 and user number 5 of the network.
+1. There is an organization A with multiple departments. Design a network for the HR department and the size of the department is 10 users. Also, show the communication between user number 1 and user number 5 of the network.    (7 MARKS)
 
 
-2. There are two organizations in a city named GEU and GEHU, design a network between the SOC department of GEU and GEHU. Also, show the communication between user number 1 of GEU and user number 2 of GEHU.
+2. There are two organizations in a city named GEU and GEHU, design a network between the SOC department of GEU and GEHU. Also, show the communication between user number 1 of GEU and user number 2 of GEHU.                        (8 MARKS)
 
 
