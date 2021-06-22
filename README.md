@@ -8,6 +8,10 @@ NOTE - Don't forget to FORK the repository, otherwise, you will not be able to p
 
 You need to create a new folder inside the directory of your section.
 
+You have to submit one pdf which includes Handwritten problem statement, objective description (what you understood by the question), steps of the questions along with screenshots of design of network, IP configuration and output in the folder created by yourself.
+
+You have to upload the folder in the given time (i.e. within 1 hour) only. if somebody uploads after 10:30 AM, submission will not be considered.
+
 Your directory should have following format - ClassRollNo_UniversityRoll_No_FirstName_Last_Name.
 
 Questions:
